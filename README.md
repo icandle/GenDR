@@ -13,3 +13,17 @@
 <a href="https://icandle.github.io/gendr_page/">
     <img src="https://img.shields.io/badge/Project-GenDR-FF8C00" /></a>
 </p>
+
+---
+
+The repo is still under construction.
+
+🎓 Citation
+---
+```
+@article{wang2025gendr,
+  title={GenDR: Lightning Generative Detail Restorator},
+  author={Wang, Yan and Zhao, Shijie and Chen, Kai and Zhang, Kexin and Li, Junlin and Zhang, Li},
+  journal={arXiv preprint arXiv:2503.06790},
+  year={2025}
+```
