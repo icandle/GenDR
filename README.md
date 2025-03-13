@@ -8,10 +8,10 @@
 <p align="center"> ByteDance
   
 <p align="center">
-<a href="https://arxiv.org/abs/2503.06790" alt="arXiv">
-    <img src="https://img.shields.io/badge/arXiv-2503.06790-b31b1b.svg?style=flat" /></a>
 <a href="https://icandle.github.io/gendr_page/">
     <img src="https://img.shields.io/badge/Project-GenDR-FF8C00" /></a>
+<a href="https://arxiv.org/abs/2503.06790" alt="arXiv">
+    <img src="https://img.shields.io/badge/arXiv-2503.06790-b31b1b.svg?style=flat" /></a>
 <a href="https://drive.google.com/file/d/18FW1SuoayABoes8l9ntKuk-xWi5b89Ye/view?usp=sharing">
     <img src="https://img.shields.io/badge/Docs-NoComp&Sup-8A2BE2" /></a>
 
@@ -25,15 +25,36 @@ class="left">](https://imgsli.com/MzU4NDEx)
 <details>
 <summary>More visual comparison from RealDeg (click me)</summary>
 <p align="left">
-  
-[<img src="./figures/sli1.png" width=100% height=100% 
-class="left">](https://imgsli.com/MzU4Mzk4)
-  
-[<img src="./figures/sli2.png" width=100% height=100% 
-class="left">](https://imgsli.com/MzU4NDAy)
 
-[<img src="./figures/sli3.png" width=100% height=100% 
+#### Social Media
+  
+[<img src="./figures/sli1.png" width=49% height=49% 
+class="left">](https://imgsli.com/MzU4Mzk4)
+[<img src="./figures/sli2.png" width=49% height=49% 
+class="left">](https://imgsli.com/MzU4NDAy)
+[<img src="./figures/sli3.png" width=49% height=49% 
 class="left">](https://imgsli.com/MzU4NDA4)
+[<img src="./figures/sli3b.png" width=49% height=49% 
+class="left">](https://imgsli.com/MzU4NDMz)
+
+
+#### Classic Film
+
+[<img src="./figures/sli5.png" width=49.6% height=51% 
+class="left">](https://imgsli.com/MzU4NDE2)
+[<img src="./figures/sli6.png" width=49% height=49% 
+class="left">](https://imgsli.com/MzU4NDE4)
+[<img src="./figures/sli7.png" width=56% height=49% 
+class="left">](https://imgsli.com/MzU4NDMx)
+[<img src="./figures/sli7c.png" width=42% height=49% 
+class="left">](https://imgsli.com/MzU4NDM0)
+
+#### Old Photo
+
+[<img src="./figures/sli8.png" width=49% height=49% 
+class="left">](https://imgsli.com/MzU4NDMw)
+
+
 
 
 </p>
