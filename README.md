@@ -47,14 +47,19 @@ class="left">](https://imgsli.com/MzU4NDE4)
 [<img src="./figures/sli7.png" width=56% height=49% 
 class="left">](https://imgsli.com/MzU4NDMx)
 [<img src="./figures/sli7c.png" width=42% height=49% 
-class="left">](https://imgsli.com/MzU4NDM0)
+class="left">](https://imgsli.com/MzU4NDM2)
 
 #### Old Photo
 
-[<img src="./figures/sli8.png" width=49% height=49% 
+[<img src="./figures/sli8.png" width=48% height=49% 
 class="left">](https://imgsli.com/MzU4NDMw)
-
-
+[<img src="./figures/sli9.png" width=50.5% height=49% 
+class="left">](https://imgsli.com/MzU4NDM4)
+[^_^]: # [<img src="./figures/sli12.png" width=49% height=49% class="left">](https://imgsli.com/MzU4NDQ2)
+[<img src="./figures/sli11.png" width=60% height=49% 
+class="left">](https://imgsli.com/MzU4NDQz)
+[<img src="./figures/sli10.png" width=38% height=49% 
+class="left">](https://imgsli.com/MzU4NDQx)
 
 
 </p>
