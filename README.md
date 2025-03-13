@@ -17,7 +17,9 @@
 
 ---
 
-
+<p align="center">
+<img src="./figures/polar3.png" width=55% height=50% class="center">
+</p align="center">
 
 **Overview:** This work presents a ***one-step*** diffusion model for generative detail restoration, **GenDR**⚡, distilled from a tailored diffusion model with ***larger latent space***, to eliminate the dilemma arised by misalignment between T2I and SR tasks. 1) ***SD2.1-VAE16***: To expand a high-dimensional latent space without enlarging model size, we train a new SD2.1-VAE16 (0.9B) via representation alignment. 2) ***CiD/CiDA***: We propose consistent score identity distillation (CiD) incorporating SR task-specific loss into score distillation to leverage more SR priors and align the training target. Furthermore, we extend CiD with adversarial learning and representation alignment (CiDA) to enhance perceptual quality and accelerate training.  
 
