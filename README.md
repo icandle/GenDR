@@ -18,13 +18,40 @@
 ---
 **Overview:** This work presents a ***one-step*** diffusion model for generative detail restoration, **GenDR**⚡, distilled from a tailored diffusion model with ***larger latent space***, to eliminate the dilemma arised by misalignment between T2I and SR tasks. 1) ***SD2.1-VAE16***: To expand a high-dimensional latent space without enlarging model size, we train a new SD2.1-VAE16 (0.9B) via representation alignment. 2) ***CiD/CiDA***: We propose consistent score identity distillation (CiD) incorporating SR task-specific loss into score distillation to leverage more SR priors and align the training target. Furthermore, we extend CiD with adversarial learning and representation alignment (CiDA) to enhance perceptual quality and accelerate training.  
 
+[<img src="./figures/sli4.png" width=100% height=100% 
+class="left">](https://imgsli.com/MzU4NDEx)
+
+
+<details>
+<summary>More visual comparison from RealDeg (click me)</summary>
+<p align="left">
+  
 [<img src="./figures/sli1.png" width=100% height=100% 
 class="left">](https://imgsli.com/MzU4Mzk4)
+  
 [<img src="./figures/sli2.png" width=100% height=100% 
 class="left">](https://imgsli.com/MzU4NDAy)
 
+[<img src="./figures/sli3.png" width=100% height=100% 
+class="left">](https://imgsli.com/MzU4NDA4)
+
+
+</p>
+</details>
+
+
+<details>
+<summary>More visual comparison from RealLR200 (click me)</summary>
+<p align="left">
+
+</p>
+</details>
+
 The repo is still under construction.
 
+🔥 Update
+---
+- [2025.03] Repo and project created. The open-source process is in the audit stage and depends on the company policy. If all goes well, the code and weights will be released in the next two months.
 
 💖 Acknowledgments
 ---
