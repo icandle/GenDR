@@ -81,7 +81,7 @@ The repo is still under construction.
 
 🔥 Update
 ---
-- [2025.03] Repo and project created. The open-source process is in the audit stage and depends on the company policy. If all goes well, the code and weights will be released in the next two months.
+- [2025.03] Repo and project created. 
 
 💖 Acknowledgments
 ---
